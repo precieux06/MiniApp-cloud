@@ -1,0 +1,4 @@
+Host: bughost.net
+GET / HTTP/1.1
+X-Forwarded-For: 102.206.159.131
+Connection: keep-alive
